@@ -1,6 +1,4 @@
-  @import url("https://fonts.googleapis.com/css2?family=Akshar&family=Bebas+Neue&family=Nunito+Sans:wght@600&family=Rubik&display=swap");
-
-:root {
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Bebas+Neue&family=Fira+Sans:wght@300&family=Nunito+Sans:wght@600&family=Rubik&display=swap');:root {
   --chartreuse:chartreuse;
   --black: #192a56;
   --light-color: #666;
@@ -9,7 +7,7 @@
 }
 
 * {
-  font-family: "Akshar", sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -327,7 +325,7 @@ header .icon #menu-bars {
 
 .title-text h1{
   font-size: 50px;
-  font-family: Akshar;
+  font-family: Nunito Sans;
 }
 
 .feature-box{
